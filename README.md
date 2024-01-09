@@ -6,4 +6,4 @@ Kitoblar sotuv tizimi
 <h1>CSS</h1>
 <h1>Javascripts</h1>
 
-<image src="books/book_.webp" width='100%' hieght=''>
+<image src="Shoes Websit/books/book_.webp" width='100%' hieght=''>
